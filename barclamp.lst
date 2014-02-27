@@ -1,0 +1,11 @@
+haopenstack|barclamp-openstack-titanium-base|--recursive https://github.com/crowbar/barclamp-openstack-titanium-base.git
+haproxy|barclamp-openstack-titanium-loadbalancer|--recursive https://github.com/crowbar/barclamp-openstack-titanium-loadbalancer
+percona|barclamp-openstack-titanium-database|--recursive https://github.com/crowbar/barclamp-openstack-titanium-database.git
+rabbitmq|barclamp-openstack-titanium-messaging|--recursive https://github.com/crowbar/barclamp-openstack-titanium-messaging.git
+keystone|barclamp-openstack-titanium-identity|--recursive https://github.com/crowbar/barclamp-openstack-titanium-identity.git
+glance|barclamp-openstack-titanium-image|--recursive https://github.com/crowbar/barclamp-openstack-titanium-image.git
+cinder|barclamp-openstack-titanium-block-storage|--recursive https://github.com/crowbar/barclamp-openstack-titanium-block-storage.git
+quantum|barclamp-openstack-titanium-network|--recursive https://github.com/crowbar/barclamp-openstack-titanium-network
+nova|barclamp-openstack-titanium-compute|--recursive https://github.com/crowbar/barclamp-openstack-titanium-compute
+nova_dashboard|barclamp-openstack-titanium-dashboard|--recursive https://github.com/crowbar/barclamp-openstack-titanium-dashboard.git
+END
